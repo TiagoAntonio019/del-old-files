@@ -1,2 +1,2 @@
-# del-old-files
-Script to delete old backups
+# Delete old files
+Script to delete old backups files.
